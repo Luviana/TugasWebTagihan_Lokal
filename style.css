@@ -1,0 +1,94 @@
+section {
+	margin-top: 20px;
+	font-family: Arimo, sans-serif;
+	font-size: 18px;
+}
+
+hr {
+	border-width: 3px;
+}
+
+.table1 {
+	margin-top: 20px;
+}
+
+.img_judul {
+	width: 250px;
+	height: 100px;
+}
+
+.kotak {
+	border : 2px solid lightgrey;
+	height: 1400px;
+}
+
+.kotak2 {
+	height: 40px;
+	text-align: center;
+	background-color: lightgrey;
+	border: 2px solid grey;
+	font-size: 20px;
+	margin-bottom: 10px;
+}
+
+.img_bank {
+	height: 200px;
+	width: 400px;
+}
+
+.kotak3 {
+	height: 40px;
+	text-align: center;
+	background-color: maroon;
+	color: white;
+	font-size: 26px;
+	margin-bottom: 30px;
+}
+
+.biaya_align {
+	display: flex;
+	justify-content: space-between;
+}
+ 
+.gambar_bank {
+	display: inline-block;
+	width: 150px;
+	height: 80px;
+}
+
+.p_bank {
+	font-size: 20px;
+	text-align: right;
+
+}
+
+.button1 {
+	border-radius: 5px;
+	background-color: #1B54E2;
+	color: white;
+	font-size: 20px;
+	margin-top: 30px;
+}
+
+.p_table2 {
+	text-align: right;
+}
+
+.kotak4 {
+	display: inline-block;
+	background-color: grey;
+	font-size: 20px;
+	border: 1px solid black;
+	border-right: none;
+	margin-top: -25px;
+}
+
+.kotak5 {
+	display: inline-block;
+	background-color: #2EBEDD;
+	font-size: 20px;
+	text-align: right;
+	border: 1px solid black;
+	border-left: none;
+	margin-top: -25px;
+}
